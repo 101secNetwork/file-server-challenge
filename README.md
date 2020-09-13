@@ -1,4 +1,4 @@
-# Insecure Samba Challenge
+# File Server Challenge
 
 This challenge was created to help practice skills in the following vulnerability categories:
 
