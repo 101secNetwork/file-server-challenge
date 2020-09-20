@@ -9,9 +9,3 @@ Play with friends on huge survival worlds!
 **Discord Invite:** https://discord.101sec.net
 
 What are you waiting for?!
-
-<!--
-ssh credentials
-user: root
-pass: #M13$cW2Ci
--->
